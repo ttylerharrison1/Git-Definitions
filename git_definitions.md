@@ -1,0 +1,13 @@
+# Terminal Definitions
+- pwd: Print Working Directory
+- ls: List all of my files and directories inside of the current directory
+- cd [new directory to move to]: Change new directory to wirking directory
+- mkdir [NameOfDirectory]: Makes a new Directory
+- [touch]: Makes a new File
+- [nano]: opend a file in nano
+
+# Git Definitions 
+- version control [VC]: A system that records changes to a file or set of files over time so that you recall specific versions later
+- vcs: A version control system 
+- Distributed VCS: Instead of checking out a snapshot of the project the user checks out the entire progect
+- 
