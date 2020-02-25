@@ -10,4 +10,7 @@
 - version control [VC]: A system that records changes to a file or set of files over time so that you recall specific versions later
 - vcs: A version control system 
 - Distributed VCS: Instead of checking out a snapshot of the project the user checks out the entire progect
+- Working Directory: A single snapshot of the current project
+- Staging Area: is a single file in the .git directory that stores information about what will go into the next commit.
+- Git Directory: the meta data and object database for your project.
 - 
