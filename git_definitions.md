@@ -17,3 +17,10 @@
 - Unmodified: meand the file is unchanged,
 - Modifies: means you have changed the file but have not been   
 - Nonsense is back
+
+
+Branching definitions
+- git branch <branchname> creat a new branch
+- git checkout <branchname> switch to new branch
+- git checkout -b<branchname> create new banch and switch to it
+- git branch -d<branchname> delete branch
