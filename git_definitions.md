@@ -24,3 +24,4 @@ Branching definitions
 - git checkout <branchname> switch to new branch
 - git checkout -b<branchname> create new banch and switch to it
 - git branch -d<branchname> delete branch
+- git merge [branchNameToMerge] merged the branch named into the branch you are working on
