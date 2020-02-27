@@ -1,7 +1,7 @@
 # Terminal Definitions
 - pwd: Print Working Directory
 - ls: List all of my files and directories inside of the current directory
-- cd [new directory to move to]: Change new directory to wirking directory
+- cd [new directory to move to]: Change new directory to working directory
 - mkdir [NameOfDirectory]: Makes a new Directory
 - [touch]: Makes a new File
 - [nano]: opend a file in nano
@@ -25,3 +25,10 @@ Branching definitions
 - git checkout -b<branchname> create new banch and switch to it
 - git branch -d<branchname> delete branch
 - git merge [branchNameToMerge] merged the branch named into the branch you are working on
+
+GIT Flow 
+- Master Branch - only stable tested code
+
+- Develop branch - integration branch for new features - If its going to break we want it to break here.  
+
+- topic branch - branched from development so stupid people like me dont screw up the dev branch
