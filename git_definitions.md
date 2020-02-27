@@ -19,14 +19,14 @@
 - Nonsense is back
 
 
-Branching definitions
+# Branching definitions
 - git branch <branchname> creat a new branch
 - git checkout <branchname> switch to new branch
 - git checkout -b<branchname> create new banch and switch to it
 - git branch -d<branchname> delete branch
 - git merge [branchNameToMerge] merged the branch named into the branch you are working on
 
-GIT Flow 
+# GIT Flow 
 - Master Branch - only stable tested code
 
 - Develop branch - integration branch for new features - If its going to break we want it to break here.  
